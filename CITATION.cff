@@ -10,10 +10,10 @@ authors:
 - family-names: "Savage"
   given-names: "Martin J."
   orcid: "https://orcid.org/0000-0001-6502-7106"
-title: "My Research Software"
+title: "Quantum Simulations of SO(5) Many-Fermion Systems using Qudits"
 version: 1.0.0
-date-released: 2023-12-31
-url: "https://github.com/millasub/Agassi_qudit_private_test"
+date-released: 2023-05-19
+url: "https://github.com/millasub/Agassi_qu5it_data"
 preferred-citation:
   type: article
   authors:
@@ -30,8 +30,8 @@ preferred-citation:
   journal: "Journal Title"
   month: 1
   start: 1 # First page number
-  end: 10 # Last page number
-  title: "Quantum Simulations of Fermionic-Pairing Interactions with Qudit Systems"
+  end: 1 # Last page number
+  title: "Quantum Simulations of SO(5) Many-Fermion Systems using Qudits"
   issue: 1
   volume: 1
   year: 2023
