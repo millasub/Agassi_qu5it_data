@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Illa"
+  given-names: "Marc"
+  orcid: "https://orcid.org/0000-0003-3570-2849"
+- family-names: "Robin"
+  given-names: "Caroline E. P."
+  orcid: "https://orcid.org/0000-0001-5487-270X"
+- family-names: "Savage"
+  given-names: "Martin J."
+  orcid: "https://orcid.org/0000-0001-6502-7106"
+title: "My Research Software"
+version: 1.0.0
+date-released: 2023-12-31
+url: "https://github.com/millasub/Agassi_qudit_private_test"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Illa"
+    given-names: "Marc"
+    orcid: "https://orcid.org/0000-0003-3570-2849"
+  - family-names: "Robin"
+    given-names: "Caroline E. P."
+    orcid: "https://orcid.org/0000-0001-5487-270X"
+  - family-names: "Savage"
+    given-names: "Martin J."
+    orcid: "https://orcid.org/0000-0001-6502-7106"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 1
+  start: 1 # First page number
+  end: 10 # Last page number
+  title: "Quantum Simulations of Fermionic-Pairing Interactions with Qudit Systems"
+  issue: 1
+  volume: 1
+  year: 2023
